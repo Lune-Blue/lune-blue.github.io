@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-18T01:47:36+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Moon Seung Jun</title><subtitle></subtitle><author><name>Moon Seung Jun</name><email>tmdwns7546@yonsei.ac.kr</email></author><entry><title type="html">Example Project Post-2</title><link href="http://localhost:4000/example-post-2/" rel="alternate" type="text/html" title="Example Project Post-2" /><published>2019-08-12T00:00:00+09:00</published><updated>2019-08-12T00:00:00+09:00</updated><id>http://localhost:4000/example-post-2</id><content type="html" xml:base="http://localhost:4000/example-post-2/"><![CDATA[<h1 id="title">Title</h1>
+
+<p>Here’s some raw text.</p>
+
+<p>Here’s some MORE raw text…</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">hello_world</span><span class="p">():</span>
+    <span class="k">print</span><span class="p">(</span><span class="s">"hello world!"</span><span class="p">)</span>
+
+<span class="k">print</span><span class="p">(</span><span class="n">hello_world</span><span class="p">())</span>
+</code></pre></div></div>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">hello</span> <span class="n">world</span><span class="err">!</span>
+</code></pre></div></div>]]></content><author><name>Moon Seung Jun</name><email>tmdwns7546@yonsei.ac.kr</email></author></entry><entry><title type="html">Example Project Post</title><link href="http://localhost:4000/example-post/" rel="alternate" type="text/html" title="Example Project Post" /><published>2019-08-12T00:00:00+09:00</published><updated>2019-08-12T00:00:00+09:00</updated><id>http://localhost:4000/example-post</id><content type="html" xml:base="http://localhost:4000/example-post/"><![CDATA[<h1 id="title">Title</h1>
+
+<p>Here’s some raw text.</p>
+
+<p>Here’s some MORE raw text…</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">hello_world</span><span class="p">():</span>
+    <span class="k">print</span><span class="p">(</span><span class="s">"hello world!"</span><span class="p">)</span>
+
+<span class="k">print</span><span class="p">(</span><span class="n">hello_world</span><span class="p">())</span>
+</code></pre></div></div>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">hello</span> <span class="n">world</span><span class="err">!</span>
+</code></pre></div></div>]]></content><author><name>Moon Seung Jun</name><email>tmdwns7546@yonsei.ac.kr</email></author><category term="data wrangling" /><category term="data science" /><category term="messy data" /><summary type="html"><![CDATA[Data Wrangling, Data Science, Messy Data]]></summary></entry><entry><title type="html">Data Wrangling Project</title><link href="http://localhost:4000/perceptron/" rel="alternate" type="text/html" title="Data Wrangling Project" /><published>2018-01-28T00:00:00+09:00</published><updated>2018-01-28T00:00:00+09:00</updated><id>http://localhost:4000/perceptron</id><content type="html" xml:base="http://localhost:4000/perceptron/"><![CDATA[<h1 id="h1-heading">H1 Heading</h1>
+
+<h2 id="h2-heading">H2 Heading</h2>
+
+<h3 id="h3-heading">H3 Heading</h3>
+
+<p>Here’s some basic text.</p>
+
+<p>And here’s some <em>italics</em></p>
+
+<p>Here’s some <strong>bold</strong> text.</p>
+
+<p>What about a <a href="https://github.com/dataoptimal">link</a>?</p>
+
+<p>Here’s a bulleted list:</p>
+<ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ul>
+
+<p>Here’s a numbered list:</p>
+<ol>
+  <li>First</li>
+  <li>Second</li>
+  <li>Third</li>
+</ol>
+
+<p>Python code block:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    <span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="n">np</span>
+
+    <span class="k">def</span> <span class="nf">test_function</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">):</span>
+      <span class="n">z</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="nb">sum</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="n">y</span><span class="p">)</span>
+      <span class="k">return</span> <span class="n">z</span>
+</code></pre></div></div>
+
+<p>R code block:</p>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">tidyverse</span><span class="p">)</span><span class="w">
+</span><span class="n">df</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">read_csv</span><span class="p">(</span><span class="s2">"some_file.csv"</span><span class="p">)</span><span class="w">
+</span><span class="n">head</span><span class="p">(</span><span class="n">df</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
+
+<p>Here’s some inline code <code class="language-plaintext highlighter-rouge">x+y</code>.</p>
+
+<p>Here’s an image:
+<img src="http://localhost:4000/images/perceptron/linsep.jpg" alt="linearly separable data" /></p>
+
+<p>Here’s another image using Kramdown:
+<img src="http://localhost:4000/images/perceptron/linsep.jpg" alt="alt" /></p>
+
+<p>Here’s some math:</p>
+
+\[z=x+y\]
+
+<p>You can also put it inline \(z=x+y\)</p>]]></content><author><name>Moon Seung Jun</name><email>tmdwns7546@yonsei.ac.kr</email></author><category term="data wrangling" /><category term="data science" /><category term="messy data" /><summary type="html"><![CDATA[Data Wrangling, Data Science, Messy Data]]></summary></entry></feed>
