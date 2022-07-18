@@ -16,7 +16,6 @@ I am interested in
 
 **Yonsei University, Seoul, Republic of Korea**  *Aug 2022 - Present*
 Ph.D. Student, Computer Science
-
 Advised by Prof. Jinyoung Yeo
 
 **Yonsei University, Seoul, Republic of Korea**  *Mar 2017 - Aug 2022*
