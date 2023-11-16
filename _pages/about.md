@@ -5,12 +5,10 @@ permalink: /about/
 header:
 ---
 
-Hello, I am a Ph.D student in Computer Science at Yonsei University,  
+Hello, I am a M.S. student in Computer Science at Yonsei University,  
 advised by Prof. Jinyoung Yeo.
 
-I am interested in  
-(1) Dialogue agent  
-(2) Commonsense Reasoning  
+I am interested in leveraging LLMs for various domain (e.g., code generation, using tools)
 
 ## EDUCATION
 
