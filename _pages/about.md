@@ -10,6 +10,8 @@ advised by Prof. Jinyoung Yeo.
 
 I am interested in leveraging LLMs for various domain (e.g., code generation, using tools)
 
+My Blog: https://lunartic.tistory.com/
+
 ## EDUCATION
 
 **Yonsei University, Seoul, Republic of Korea**  *Feb 2023 - Present*  
