@@ -12,9 +12,13 @@ I am interested in leveraging LLMs for various domain (e.g., code generation, us
 
 ## EDUCATION
 
-**Yonsei University, Seoul, Republic of Korea**  *Aug 2022 - Present*  
+**Yonsei University, Seoul, Republic of Korea**  *Feb 2023 - Present*  
 M.S. Student, Computer Science  
-Advised by Prof. Jinyoung Yeo  
+Advised by Prof. Jinyoung Yeo
+
+**Yonsei University, Seoul, Republic of Korea**  *Aug 2022 - Feb 2023*  
+CONVEI Intern  
+Advised by Prof. Jinyoung Yeo
 
 **Yonsei University, Seoul, Republic of Korea**  *Mar 2017 - Aug 2022*  
 B.S., Computer Science  
