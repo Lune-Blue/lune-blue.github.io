@@ -28,16 +28,20 @@ Major GPA: 3.8/4.5
 
 ## PUBLICATIONS
 
-**Coffee-Gym: An Environment for Evaluating and Improving Natural Language Feedback on Erroneous Code** *EMNLP 2024*
+**Coffee-Gym: An Environment for Evaluating and Improving Natural Language Feedback on Erroneous Code** *-EMNLP 2024*
+
 {<span style="color: gray">Hyungjoo Chae, Taeyoon Kwon</span>, <u>Seungjun Moon</u>}, <span style="color: gray">Yongho Song, Dongjin Kang, Kai Tzu-iunn Ong, Beong-woo Kwak, Seonghyeon Bae, Seung-won Hwang, Jinyoung Yeo</span>
 
-**Coffee: Boost Your Code LLMs by Fixing Bugs with Feedback** *arxiv*
+**Coffee: Boost Your Code LLMs by Fixing Bugs with Feedback** *-arxiv*
+
 {<u>Seungjun Moon</u>, <span style="color: gray">Hyungjoo Chae, Yongho Song</span>}, <span style="color: gray">Taeyoon Kwon, Dongjin Kang, Kai Tzu-iunn Ong, Seung-won Hwang, Jinyoung Yeo</span>
 
-**Can Large Language Models be Good Emotional Supporter? Mitigating Preference Bias on Emotional Support Conversation** *ACL 2024, Outstanding Paper Award*
+**Can Large Language Models be Good Emotional Supporter? Mitigating Preference Bias on Emotional Support Conversation** *-ACL 2024, Outstanding Paper Award*
+
 {<span style="color: gray">Dongjin Kang, Sunghwan Kim</span>}, <span style="color: gray">Taeyoon Kwon</span>, <u>Seungjun Moon</u>, <span style="color: gray">Hyunsouk Cho, Youngjae Yu, Dongha Lee, Jinyoung Yeo</span>
 
-**Large Language Models are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales**
+**Large Language Models are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales** *-AAAI 2024*
+
 {<span style="color: gray">Taeyoon Kwon, Kai Tzu-iunn Ong</span>}, <span style="color: gray">Dongjin Kang</span>, <u>Seungjun Moon</u>, <span style="color: gray">Jeong Ryong Lee, Dosik Hwang, Yongsik Sim, Beomseok Sohn, Dongha Lee, Jinyoung Yeo</span>
 
 ## PROJECTS
