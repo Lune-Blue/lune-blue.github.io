@@ -47,12 +47,14 @@ Major GPA: 3.8/4.5
 ## PROJECTS
 
 **Attale Pro** *Feb 2020 - Feb 2021*
+
 Backend developer focused on designing and implementing servers and infrastructure to support frontend applications and mobile apps.
 
 **Industry-University Cooperation with TheBackEnd**  
 AI developer specializing in predicting user bounce rates for improved retention strategies.
 
 **TUTORING, Market Designers** *Feb 2023 - Feb 2024*
+
 AI developer specializing in building dialogue agents and the supporting infrastructure.
 
 ## AWARDS
