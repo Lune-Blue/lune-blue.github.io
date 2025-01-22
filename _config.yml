@@ -90,7 +90,7 @@ author:
   location         : "Seoul, Korea"
   email            : "tmdwns7546@yonsei.ac.kr"
   uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  home             : "https://lune-blue.github.io/about"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -98,7 +98,7 @@ author:
   facebook         :
   foursquare       :
   github           : "Lune-Blue"
-  cv               : "/images/cv.pdf" 
+  cv               : "/cv/cv.pdf" 
   gitlab           :
   google_plus      :
   keybase          :

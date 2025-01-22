@@ -81,6 +81,14 @@
         </li>
       {% endif %}
 
+      {% if author.cv %}
+        <li>
+          <a href="https://lune-blue.github.io/{{ author.twitter }}" itemprop="sameAs">
+            <i class="fas fa-file-pdf" aria-hidden="true"></i> CV
+          </a>
+        </li>
+      {% endif %}
+
       {% if author.facebook %}
         <li>
           <a href="https://www.facebook.com/{{ author.facebook }}" itemprop="sameAs">
