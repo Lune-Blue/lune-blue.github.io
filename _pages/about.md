@@ -8,6 +8,7 @@ header:
 Hello, I am an AI research engineer at KT, AI Future Lab.  
 
 I am interested in AI agents and their applications.
+For more details, please refer to my [CV](https://lune-blue.github.io//cv/cv.pdf).
 
 [My Blog](https://lunartic.tistory.com/)
 
@@ -15,7 +16,7 @@ I am interested in AI agents and their applications.
 
 **KT, AI Future Lab, Republic of Korea**  *Jul 2025 - Present*  
 AI Research Engineer
-Research Areas: AI Agents, MCP Host
+Research Areas: AI Agents, Generative AI
 
 **Tutoring, Market Designers, Seoul, Republic of Korea**  *Feb 2023 - Feb 2024*  
 AI Research Engineer
