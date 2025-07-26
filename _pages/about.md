@@ -7,7 +7,7 @@ header:
 
 Hello, I am an AI research engineer at KT, AI Future Lab.  
 
-I am interested in AI agents and their applications.
+I am interested in AI agents and their applications.   
 For more details, please refer to my [CV](https://lune-blue.github.io//cv/cv.pdf).
 
 [My Blog](https://lunartic.tistory.com/)
@@ -15,30 +15,30 @@ For more details, please refer to my [CV](https://lune-blue.github.io//cv/cv.pdf
 ## WORK EXPERIENCE
 
 **KT, AI Future Lab, Republic of Korea**  *Jul 2025 - Present*  
-AI Research Engineer
+**AI Research Engineer**   
 Research Areas: AI Agents, Generative AI
 
-**Tutoring, Market Designers, Seoul, Republic of Korea**  *Feb 2023 - Feb 2024*  
-AI Research Engineer
+**Tutoring, Market Designers, Seoul, Republic of Korea**  *Feb 2023 - Feb 2024*   
+**AI Research Engineer**   
 Design and implement memory-augmented dialogue system
 
 **Life Planning Lab, Seoul, Republic of Korea**  *Mar 2021 - Aug 2021*  
-Server & Infra Engineer 
-Manage cloud infrastructure and deployment pipelines 
+**Server & Infra Engineer**   
+Manage cloud infrastructure and deployment pipelines   
 Develop Backend system for production services
 
 ## EDUCATION
 
 **Yonsei University, Seoul, Republic of Korea**  *Feb 2023 - Present*  
-M.S. Student, Computer Science  
+**M.S. Student, Computer Science**  
 Advised by Prof. Jinyoung Yeo
 
 **Yonsei University, Seoul, Republic of Korea**  *Aug 2022 - Feb 2023*  
-CONVEI Intern  
+**CONVEI Lab Intern**  
 Advised by Prof. Jinyoung Yeo
 
 **Yonsei University, Seoul, Republic of Korea**  *Mar 2017 - Aug 2022*  
-B.S., Computer Science  
+**B.S., Computer Science**  
 Major GPA: 3.8/4.5  
 
 ## PUBLICATIONS
@@ -69,24 +69,21 @@ Major GPA: 3.8/4.5
 
 ## EXPERIENCE & PROJECTS
 
-**Commonsense Reasoning** *Feb 2022 - Aug 2022, (Internship; Advisor: Jinyoung Yeo)*
-
+**Commonsense Reasoning** *Feb 2022 - Aug 2022, (Internship; Advisor: Jinyoung Yeo)*   
 Develop continual learning approaches for robust generalization across diverse commonsense reasoning domains.
 
-**Yonsei AI - Vice President** *Aug 2021 - Feb 2022*
-
+**Yonsei AI - Vice President** *Aug 2021 - Feb 2022*   
 Lead the Yonsei AI Association to foster collaboration and advance research
 across diverse AI domains.
 
-**Dialogue Agent** *Aug 2021 - Feb 2022, (Internship; Advisor: Jinyoung Yeo)*
-
+**Dialogue Agent** *Aug 2021 - Feb 2022, (Internship; Advisor: Jinyoung Yeo)*   
 Dialogue agent for english education. By predicting user’s next utterance, agent
 suggests appropriate user’s response.
 
-**Industry-University Cooperation with TheBackEnd** *Aug 2021 - Feb 2022*
+**Industry-University Cooperation with TheBackEnd** *Aug 2021 - Feb 2022*   
 AI developer specializing in predicting user bounce rates for improved retention strategies.
 
-**ICT Project** *Feb 2021 - Nov 2021*
+**ICT Project** *Feb 2021 - Nov 2021*   
 Develop a summarization model that captures key information from real-time trending news
 
 
