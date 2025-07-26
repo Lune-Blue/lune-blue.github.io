@@ -1,0 +1,58 @@
+I"á<p>Hello, I am a M.S. student in Computer Science at Yonsei University,<br />
+advised by Prof. Jinyoung Yeo.</p>
+
+<p>I am interested in leveraging LLMs for various domain (e.g., code generation, using tools)</p>
+
+<p><a href="https://lunartic.tistory.com/">My Blog</a></p>
+
+<h2 id="education">EDUCATION</h2>
+
+<p><strong>Yonsei University, Seoul, Republic of Korea</strong>  <em>Feb 2023 - Present</em><br />
+M.S. Student, Computer Science<br />
+Advised by Prof. Jinyoung Yeo</p>
+
+<p><strong>Yonsei University, Seoul, Republic of Korea</strong>  <em>Aug 2022 - Feb 2023</em><br />
+CONVEI Intern<br />
+Advised by Prof. Jinyoung Yeo</p>
+
+<p><strong>Yonsei University, Seoul, Republic of Korea</strong>  <em>Mar 2017 - Aug 2022</em><br />
+B.S., Computer Science<br />
+Major GPA: 3.8/4.5</p>
+
+<h2 id="publications">PUBLICATIONS</h2>
+
+<p><strong>Coffee-Gym: An Environment for Evaluating and Improving Natural Language Feedback on Erroneous Code</strong> <em>-EMNLP 2024</em></p>
+
+<p>{<span style="color: gray">Hyungjoo Chae, Taeyoon Kwon</span>, <u>Seungjun Moon</u>}, <span style="color: gray">Yongho Song, Dongjin Kang, Kai Tzu-iunn Ong, Beong-woo Kwak, Seonghyeon Bae, Seung-won Hwang, Jinyoung Yeo</span></p>
+
+<p><strong>Coffee: Boost Your Code LLMs by Fixing Bugs with Feedback</strong> <em>-arxiv</em></p>
+
+<p>{<u>Seungjun Moon</u>, <span style="color: gray">Hyungjoo Chae, Yongho Song</span>}, <span style="color: gray">Taeyoon Kwon, Dongjin Kang, Kai Tzu-iunn Ong, Seung-won Hwang, Jinyoung Yeo</span></p>
+
+<p><strong>Can Large Language Models be Good Emotional Supporter? Mitigating Preference Bias on Emotional Support Conversation</strong> <em>-ACL 2024, Outstanding Paper Award</em></p>
+
+<p>{<span style="color: gray">Dongjin Kang, Sunghwan Kim</span>}, <span style="color: gray">Taeyoon Kwon</span>, <u>Seungjun Moon</u>, <span style="color: gray">Hyunsouk Cho, Youngjae Yu, Dongha Lee, Jinyoung Yeo</span></p>
+
+<p><strong>Large Language Models are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales</strong> <em>-AAAI 2024</em></p>
+
+<p>{<span style="color: gray">Taeyoon Kwon, Kai Tzu-iunn Ong</span>}, <span style="color: gray">Dongjin Kang</span>, <u>Seungjun Moon</u>, <span style="color: gray">Jeong Ryong Lee, Dosik Hwang, Yongsik Sim, Beomseok Sohn, Dongha Lee, Jinyoung Yeo</span></p>
+
+<h2 id="projects">PROJECTS</h2>
+
+<p><strong>Attale Pro</strong> <em>Feb 2020 - Feb 2021</em></p>
+
+<p>Backend developer focused on designing and implementing servers and infrastructure to support frontend applications and mobile apps.</p>
+
+<p><strong>Industry-University Cooperation with TheBackEnd</strong><br />
+AI developer specializing in predicting user bounce rates for improved retention strategies.</p>
+
+<p><strong>TUTORING, Market Designers</strong> <em>Feb 2023 - Feb 2024</em></p>
+
+<p>AI developer specializing in building dialogue agents and the supporting infrastructure.</p>
+
+<h2 id="awards">AWARDS</h2>
+
+<p><strong>Software Capstone Design: Excellence Award</strong><br />
+Fall 2021</p>
+
+:ET
