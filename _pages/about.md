@@ -5,12 +5,26 @@ permalink: /about/
 header:
 ---
 
-Hello, I am a M.S. student in Computer Science at Yonsei University,  
-advised by Prof. Jinyoung Yeo.
+Hello, I am an AI research engineer at KT, AI Future Lab.  
 
-I am interested in leveraging LLMs for various domain (e.g., code generation, using tools)
+I am interested in AI agents and their applications.
 
 [My Blog](https://lunartic.tistory.com/)
+
+## WORK EXPERIENCE
+
+**KT, AI Future Lab, Republic of Korea**  *Jul 2025 - Present*  
+AI Research Engineer
+Research Areas: AI Agents, MCP Host
+
+**Tutoring, Market Designers, Seoul, Republic of Korea**  *Feb 2023 - Feb 2024*  
+AI Research Engineer
+Design and implement memory-augmented dialogue system
+
+**Life Planning Lab, Seoul, Republic of Korea**  *Mar 2021 - Aug 2021*  
+Server & Infra Engineer 
+Manage cloud infrastructure and deployment pipelines 
+Develop Backend system for production services
 
 ## EDUCATION
 
@@ -28,6 +42,14 @@ Major GPA: 3.8/4.5
 
 ## PUBLICATIONS
 
+**WEB-SHEPHERD: Advancing PRMs for Reinforcing Web Agents** *-Submitted to NeurIPS 2025, Under Review*
+
+{<span style="color: gray">Hyungjoo Chae, Sunghwan Kim, Junhee Cho</span>}, <span style="color: gray">Seungone Kim</span>, <u>Seungjun Moon</u>, <span style="color: gray"> Gyeom Hwangbo, Dongha Lim, Minjin Kim, et al. (12 Authors omitted), Jinyoung Yeo</span>
+
+**Embodied Agents Meet Personalization: Exploring Memory Utilization for Personalized Assistance** *-Submitted to NeurIPS 2025, Under Review*
+
+{<span style="color: gray">Taeyoon Kwon, Dongwook Choi</span>}, <span style="color: gray">Sunghwan Kim, Hyojun Kim</span>, <u>Seungjun Moon</u>, <span style="color: gray"> Beong-woo Kwak, Kuan-Hao Huang, Jinyoung Yeo</span>
+
 **Coffee-Gym: An Environment for Evaluating and Improving Natural Language Feedback on Erroneous Code** *-EMNLP 2024*
 
 {<span style="color: gray">Hyungjoo Chae, Taeyoon Kwon</span>, <u>Seungjun Moon</u>}, <span style="color: gray">Yongho Song, Dongjin Kang, Kai Tzu-iunn Ong, Beong-woo Kwak, Seonghyeon Bae, Seung-won Hwang, Jinyoung Yeo</span>
@@ -44,21 +66,27 @@ Major GPA: 3.8/4.5
 
 {<span style="color: gray">Taeyoon Kwon, Kai Tzu-iunn Ong</span>}, <span style="color: gray">Dongjin Kang</span>, <u>Seungjun Moon</u>, <span style="color: gray">Jeong Ryong Lee, Dosik Hwang, Yongsik Sim, Beomseok Sohn, Dongha Lee, Jinyoung Yeo</span>
 
-## PROJECTS
+## EXPERIENCE & PROJECTS
 
-**Attale Pro** *Feb 2020 - Feb 2021*
+**Commonsense Reasoning** *Feb 2022 - Aug 2022, (Internship; Advisor: Jinyoung Yeo)*
 
-Backend developer focused on designing and implementing servers and infrastructure to support frontend applications and mobile apps.
+Develop continual learning approaches for robust generalization across diverse commonsense reasoning domains.
 
-**Industry-University Cooperation with TheBackEnd**  
+**Yonsei AI - Vice President** *Aug 2021 - Feb 2022*
+
+Lead the Yonsei AI Association to foster collaboration and advance research
+across diverse AI domains.
+
+**Dialogue Agent** *Aug 2021 - Feb 2022, (Internship; Advisor: Jinyoung Yeo)*
+
+Dialogue agent for english education. By predicting user’s next utterance, agent
+suggests appropriate user’s response.
+
+**Industry-University Cooperation with TheBackEnd** *Aug 2021 - Feb 2022*
 AI developer specializing in predicting user bounce rates for improved retention strategies.
 
-**TUTORING, Market Designers** *Feb 2023 - Feb 2024*
+**ICT Project** *Feb 2021 - Nov 2021*
+Develop a summarization model that captures key information from real-time trending news
 
-AI developer specializing in building dialogue agents and the supporting infrastructure.
 
-## AWARDS
-
-**Software Capstone Design: Excellence Award**  
-Fall 2021
 
