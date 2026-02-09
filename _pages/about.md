@@ -43,13 +43,13 @@ Major GPA: 3.8/4.5
 
 ## PUBLICATIONS
 
-**WEB-SHEPHERD: Advancing PRMs for Reinforcing Web Agents** *-Submitted to NeurIPS 2025, Under Review*
-
-{<span style="color: gray">Hyungjoo Chae, Sunghwan Kim, Junhee Cho</span>}, <span style="color: gray">Seungone Kim</span>, <u>Seungjun Moon</u>, <span style="color: gray"> Gyeom Hwangbo, Dongha Lim, Minjin Kim, et al. (12 Authors omitted), Jinyoung Yeo</span>
-
-**Embodied Agents Meet Personalization: Exploring Memory Utilization for Personalized Assistance** *-Submitted to NeurIPS 2025, Under Review*
+**Embodied Agents Meet Personalization: Exploring Memory Utilization for Personalized Assistance** *-ICLR 2026*
 
 {<span style="color: gray">Taeyoon Kwon, Dongwook Choi</span>}, <span style="color: gray">Sunghwan Kim, Hyojun Kim</span>, <u>Seungjun Moon</u>, <span style="color: gray"> Beong-woo Kwak, Kuan-Hao Huang, Jinyoung Yeo</span>
+
+**WEB-SHEPHERD: Advancing PRMs for Reinforcing Web Agents** *-NeurIPS 2025 Spotlight*
+
+{<span style="color: gray">Hyungjoo Chae, Sunghwan Kim, Junhee Cho</span>}, <span style="color: gray">Seungone Kim</span>, <u>Seungjun Moon</u>, <span style="color: gray"> Gyeom Hwangbo, Dongha Lim, Minjin Kim, et al. (12 Authors omitted), Jinyoung Yeo</span>
 
 **Coffee-Gym: An Environment for Evaluating and Improving Natural Language Feedback on Erroneous Code** *-EMNLP 2024*
 
