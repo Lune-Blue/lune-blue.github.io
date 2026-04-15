@@ -5,7 +5,7 @@ permalink: /about/
 header:
 ---
 
-Hello, I am an AI research engineer at KT, AI Future Lab.  
+Hello, I am an AI research engineer at KT, Agentic AI Lab.  
 
 I am interested in AI agents and their applications.   
 For more details, please refer to my [CV](https://lune-blue.github.io//cv/cv.pdf).
