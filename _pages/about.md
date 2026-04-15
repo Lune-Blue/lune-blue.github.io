@@ -10,8 +10,6 @@ Hello, I am an AI research engineer at KT, AI Future Lab.
 I am interested in AI agents and their applications.   
 For more details, please refer to my [CV](https://lune-blue.github.io//cv/cv.pdf).
 
-[My Blog](https://lunartic.tistory.com/)
-
 ## WORK EXPERIENCE
 
 **KT, AI Future Lab, Republic of Korea**  *Jul 2025 - Present*  
